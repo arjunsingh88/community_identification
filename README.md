@@ -7,12 +7,7 @@ The term ‘social’ implies interactions among humans, but social network anal
 
 |Local Measure | Global Measure |
 |--------------|--------------|
-|* Degree|* Density|
-|* Eccentricity|* Diameter & Radius|
-|* Betweeness centrality|* Transivity|
-|* Closeness centrality|* Modularity|
-|* Edgebetweenness|* Average|
-|* Local transivity||
+|Degree <br> Eccentricity <br> Betweeness centrality <br> Closeness centrality <br> Edgebetweenness <br> Local transivity|Density <br> Diameter & Radius <br> Transivity <br> Modularity <br> Average|
 
 
 |Centrality Measures|![1_fPuf75BXYYGC3VmhSXnb2w](https://user-images.githubusercontent.com/45566835/83137424-70e37380-a0e9-11ea-9f1c-7890866d521a.png)|
