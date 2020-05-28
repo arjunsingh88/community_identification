@@ -20,7 +20,7 @@ The term ‘social’ implies interactions among humans, but social network anal
 ### Local Modularity Measures
 `Modularity: `Modularity is one measure of the structure of networks or graphs. It was designed to measure the strength of division of a network into modules (also called groups, clusters or communities). Networks with high modularity have dense connections between the nodes within modules but sparse connections between nodes in different modules. Modularity is often used in optimization methods for detecting community structure in networks.
 | Modularity Measure | Mathematical computation |
-| -------------      |:-------------:|
+|:-------------:|:-------------:|
 |      `Modularity R`         | ![lcoal community function](https://user-images.githubusercontent.com/45566835/83134771-206a1700-a0e5-11ea-8b1e-e7c0784fbfa2.png) |
 |      `Modularity M`        |![2](https://user-images.githubusercontent.com/45566835/83134772-206a1700-a0e5-11ea-92da-297f85a156aa.png)      |
 |      `Modularity L`         | ![3](https://user-images.githubusercontent.com/45566835/83134774-2102ad80-a0e5-11ea-92b0-6c58c9df7f0e.png) |
